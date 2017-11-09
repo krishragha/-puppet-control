@@ -15,3 +15,8 @@ forge "http://forge.puppetlabs.com"
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'puppetlabs-stdlib', '4.15.0'
+mod 'puppetlabs-concat', '2.2.0'
+mod 'puppetlabs-apache', '1.11.0'
+
